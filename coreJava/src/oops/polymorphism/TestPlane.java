@@ -16,6 +16,7 @@ class Plane
      System.out.println("plane is flying");
  }
 }
+
 class PassengerPlane extends Plane
 {
  public void fly()
