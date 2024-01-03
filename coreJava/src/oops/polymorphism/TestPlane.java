@@ -35,6 +35,11 @@ class FighterPlane extends Plane
  public void fly()
  {
      System.out.println("Fighterlane files at higher height");
+     shoot();
+ }
+ public void shoot()
+ {
+	 System.out.println("Shooting:-------");
  }
 }
 class Airport
@@ -56,5 +61,6 @@ public class TestPlane {
      air.permit(cp);
      air.permit(pp);
      air.permit(fp);
+   
  }
 }
