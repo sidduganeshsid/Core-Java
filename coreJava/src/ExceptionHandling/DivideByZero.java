@@ -1,3 +1,7 @@
+package ExceptionHandling;
+
+import java.util.Scanner;
+
 public class DivideByZero
 {
     public static void main(String args[])
@@ -13,7 +17,7 @@ public class DivideByZero
         }
         catch (ArithmeticException ae)
         {
-            System.out.println("Divided by zero")
+            System.out.println("Divided by zero");
         }
     }
 }
