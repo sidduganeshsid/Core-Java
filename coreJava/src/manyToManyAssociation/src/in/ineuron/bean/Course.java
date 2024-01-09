@@ -1,4 +1,4 @@
-package in.ineuron.bean;
+package manyToManyAssociation.src.in.ineuron.bean;
 
 //Dependent Object
 public class Course {

@@ -1,7 +1,8 @@
-package in.ineuron.main;
+package manyToManyAssociation.src.in.ineuron.main;
 
-import in.ineuron.bean.Course;
-import in.ineuron.bean.Student;
+//import manyToManyAssociation.src.in.ineuron.bean;
+import manyToManyAssociation.src.in.ineuron.bean.Course;
+import manyToManyAssociation.src.in.ineuron.bean.Student;
 
 public class TestApp {
 
