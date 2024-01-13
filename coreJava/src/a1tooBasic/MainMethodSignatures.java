@@ -1,6 +1,6 @@
-package tooBasic;
+package a1tooBasic;
 
-public class HelloWorld {
+public class MainMethodSignatures {
 
 //	public static void main(String[] args) {
 //	static public void main(String[] args) {
