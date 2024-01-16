@@ -1,3 +1,5 @@
+package opps.encapsulation;
+
 class Student
 {
 	private int age;      //instance variable//Data Member//Fields

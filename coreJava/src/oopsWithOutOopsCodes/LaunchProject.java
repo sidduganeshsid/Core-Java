@@ -1,3 +1,5 @@
+package oopsWithOutOopsCodes;
+
 import java.util.Scanner;
 
 abstract class Shapes {
